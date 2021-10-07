@@ -1,7 +1,7 @@
 # test_babel
 
-*asio 1.19.2
-*C++ 14
+* asio 1.19.2
+* C++ 14
 
 # compile:
 ````
